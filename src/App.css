@@ -1,0 +1,23 @@
+body {
+  background-image: url(./images/bg-1.jpeg);
+}
+
+.navbar.navbar-light {
+  background-color: #274C77  !important;
+  
+  a {
+    color: white !important;
+  }
+}
+
+.card-header {
+  background-color: #A3CEF1 !important;
+
+  h4 {
+    margin: 0;
+  }
+}
+
+.bg-grey {
+  background-color: #E7ECEF !important;
+}
